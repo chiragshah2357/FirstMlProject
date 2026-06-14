@@ -1,14 +1,9 @@
-pandas
-numpy
-seaborn
-matplotlib
-setuptools
-ipykernel
-scikit-learn
-catboost
-xgboost
-dill
 flask
+numpy
+pandas
+scikit-learn
+dill
+gunicorn
 
 # -e.
 
